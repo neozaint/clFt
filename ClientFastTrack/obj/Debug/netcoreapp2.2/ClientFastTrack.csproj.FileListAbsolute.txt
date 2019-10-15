@@ -1,0 +1,11 @@
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\bin\Debug\netcoreapp2.2\ClientFastTrack.deps.json
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\bin\Debug\netcoreapp2.2\ClientFastTrack.runtimeconfig.json
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\bin\Debug\netcoreapp2.2\ClientFastTrack.runtimeconfig.dev.json
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\bin\Debug\netcoreapp2.2\ClientFastTrack.dll
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\bin\Debug\netcoreapp2.2\ClientFastTrack.pdb
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.csprojAssemblyReference.cache
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.csproj.CoreCompileInputs.cache
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.AssemblyInfoInputs.cache
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.AssemblyInfo.cs
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.dll
+C:\Users\852038\source\repos\ClientFastTrack\ClientFastTrack\obj\Debug\netcoreapp2.2\ClientFastTrack.pdb
